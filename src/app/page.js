@@ -563,7 +563,7 @@ const FAQAccordion = () => {
     <section className="bg-indigo-50 pt-10 border">
       <div className="max-w-screen-xl px-4 pb-8 mx-auto lg:pb-24 lg:px-6">
         <h2 className="my-6 text-center  lg:mb-8 text-2xl font-bold leading-none tracking-tight md:text-3xl text-indigo-900">
-          (FAQ's) Frequently Asked Questions
+          (FAQ&apos;s) Frequently Asked Questions
         </h2>
         <div className="max-w-screen-md mx-auto">
           <div id="accordion-flush">
@@ -689,7 +689,7 @@ const FAQAccordion = () => {
               {activeIndex === 4 && (
                 <div className="py-5 border-b border-gray-200 dark:border-gray-700">
                   <p className="mb-2 text-indigo-7000 dark:text-indigo-700">
-                    Getting started is easy! You can contact us directly to discuss your requirements, and we'll help you select the right products and services for your needs.
+                    Getting started is easy! You can contact us directly to discuss your requirements, and we&apos;ll help you select the right products and services for your needs.
                   </p>
                 </div>
               )}
