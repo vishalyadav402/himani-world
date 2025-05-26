@@ -10,7 +10,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-    <link rel="canonical" href="https://https://himaniworldinfosol.com/" />
+    <link rel="canonical" href="https://himaniworldinfosol.com/" />
     <meta charset="UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     {/* <meta name="viewport" content="width=device-width, initial-scale=1.0"/> */}
@@ -26,10 +26,10 @@ export default function RootLayout({ children }) {
 
     <meta property="og:title" content="Himani World Info Solutions - A Software Service Supplier Company"/>
     <meta property="og:site_name" content="himaniworldinfosol.com"/>
-    <meta property="og:url" content="https://https:/himaniworldinfosol.com/"/>
+    <meta property="og:url" content="https://himaniworldinfosol.com/"/>
     <meta property="og:description" content="Himani World Info Solutions - A Software Supplier Company is having very good trustability in market.."/>
     <meta property="og:type" content=""/>
-    <meta property="og:image" content="https://himaniworldinfosol.s3.us-east-2.amazonaws.com/public/github/landwind/og-image.png"/>
+    <meta property="og:image" content="https://himaniworldinfosol.com/images/icon.png"/>
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@himaniworldinfosol" />
     <meta name="twitter:creator" content="@himaniworldinfosol" />
@@ -41,7 +41,6 @@ export default function RootLayout({ children }) {
     <meta name="msapplication-TileColor" content="#da532c"/>
     <meta name="theme-color" content="#ffffff"/>
     <link href="./output.css" rel="stylesheet"/>
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
       </head>
       <body>
         <ClientLayout>{children}</ClientLayout>
