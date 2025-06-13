@@ -21,7 +21,7 @@ const Header = () => {
         <div className="flex flex-wrap items-center justify-center py-2">
             <ul className="text-center flex flex-col mt-4 font-normal lg:flex-row lg:space-x-8 lg:mt-0">
               <li className='text-white'>
-                Welcome to Cyberton Pvt. Ltd.
+                Welcome to Himani World Infosol Pvt Ltd.
               </li>
               <li>
               <a

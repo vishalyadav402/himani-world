@@ -67,7 +67,7 @@ export default function Home() {
   <SwiperSlide>
     <div class="grid max-w-screen-xl px-4 pt-4 pb-16 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-6">
       <div class="place-self-center lg:col-span-7 order-2 md:order-1">
-        <h1 class="max-w-2xl mb-8 text-2xl font-semibold leading-none tracking-tight dark:text-white">Empower Your Business with Cutting-Edge Tech</h1>
+        <h1 class="max-w-2xl mb-8 text-2xl font-semibold leading-none tracking-tight text-white dark:text-gray-50">Empower Your Business with Cutting-Edge Tech</h1>
         <h1 class="max-w-2xl mb-8 text-2xl font-extrabold leading-none tracking-tight md:text-5xl text-white dark:text-white">Innovate and Scale Securely with Us</h1>
         <p class="max-w-2xl mb-6 font-light text-white lg:mb-8 md:text-lg lg:text-xl dark:text-gray-50">From small businesses to enterprises, our tailored security solutions protect your growth.</p>
       </div>
